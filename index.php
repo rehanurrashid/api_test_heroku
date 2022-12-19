@@ -5,7 +5,7 @@ $num2=$_REQUEST['num2'];
 $result=NULL;
 $operand=$_REQUEST['operand'];
 
-echo"hello";
+
 
 switch($operand){
 //for multiplicative
